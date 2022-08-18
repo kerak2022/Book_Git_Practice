@@ -5,3 +5,4 @@ Lonely
 
 Hard tasks
 
+I edit page 2 after I commit
